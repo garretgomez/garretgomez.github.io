@@ -1777,6 +1777,11 @@ input, select, textarea {
 			opacity: 60%;
 		}
 
+		.img.fit{
+			display: block;
+			width: 100%;
+		}
+
 		/*added*/
 		.image.fit:hover{
 			opacity: 100%;
